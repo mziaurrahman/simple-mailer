@@ -5,7 +5,7 @@
 This application tries to send emails using sendgrid and mailgun accounts.
 The account keys are held in 
 
- - [/server/config/] keys.js 
+[`/server/config/keys.js`](/server/config/keys.js)
 
 file and need to be set manually for proper functioning of the application.
 
